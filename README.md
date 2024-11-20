@@ -6,6 +6,8 @@ two exams in the following order:
 - 1Z0-071 Oracle Database SQL Certified Associate
 - 1Z0-149 Oracle Database PL/SQL Developer Certified Professional
 
+[PL/SQL TUTORIAL BY ORACLE](https://www.oracletutorial.com/plsql-tutorial/)
+
 ## 1Z0-071 Oracle Database SQL Certified Associate
 
 ## Exam topics
