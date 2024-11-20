@@ -120,7 +120,7 @@ two exams in the following order:
 
 ## 1Z0-149 Oracle Database PL/SQL Developer Certified Professional
 
-**Mock Exams:** https://skillcertpro.com/product/oracle-database-1z0-149-exam-questions/
+[MOCK EXAMS](https://skillcertpro.com/product/oracle-database-1z0-149-exam-questions/)
 
 ## Exam topics
 
