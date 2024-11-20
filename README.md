@@ -11,9 +11,9 @@ two exams in the following order:
 ## Exam topics
 
 ## Relational Database concepts
--Explaining the theoretical and physical aspects of a relational database;
--Relating clauses in SQL Select Statement to Components of an ERD;
--Explaining the relationship between a database and SQL.
+- Explaining the theoretical and physical aspects of a relational database;
+- Relating clauses in SQL Select Statement to Components of an ERD;
+- Explaining the relationship between a database and SQL.
 
 ## Retrieving Data using the SQL SELECT Statement
 
